@@ -14,6 +14,8 @@ function calcShipping(sum, min, shipping) {
     // то shippingSum присвоить значение 0
     // то shippingSum присвоить значение 0
     // то shippingSum присвоить значение 0
+    // то shippingSum присвоить значение 0
+    // то shippingSum присвоить значение 0
     
 
     // если productsSum больше 0 и меньше freeShippingMinSum,
