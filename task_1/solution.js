@@ -27,12 +27,6 @@ function addInCartCountChange(value) {
     newValue = oldValue;
     newValue = newValue + 1;
 
-
-    // oldValue = 1;
-    // newValue = oldValue + 1;
-   // Создайте переменную newValue
-   // Присвойте ей значение oldValue
-   // Увеличьте значение newValue на 1
     
     // Конец решения задания №1.2.
 
